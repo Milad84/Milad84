@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milad84
 - 👀 I’m interested in GIS data science and use of Programming in Geography
 - 🌱 I’m currently teaching to younger generation
-- 💞️ I’m looking to collaborate on Machine learning projects.
+- 💞️ I’m looking to collaborate on GIS projects.
 - 📫 You can reach me at milad.kordeh@gmail.com
 
 <!---
