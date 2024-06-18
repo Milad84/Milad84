@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Milad84.
-- 👀 I’m interested in GIS data science and use of Programming in Geography.
-- 🌱 I’m currently working for Vision Zero Program at the City of Austin Transportation and Public Works Department as an IT Geospatial Analyst.
-- :books:I am an Adjunct Professor of GIS at Northwest Missouri State University and formerly I was a visiting Assistant Professor of GIS at Clark University.
-- 💞️ I’m looking to collaborate on GIS projects.
+- 👀 I’m interested in GIS data science and the use of Programming in Geography.
+🌱 I work as an IT geospatial analyst for Vision Zero Division at the City of Austin Transportation and Public Works Department.
+- :books: I am an ex Adjunct Professor of GIS at Northwest Missouri State University and formerly a visiting Assistant Professor of GIS at Clark University.
+- 💞️ I solve problems on GIS projects.
 - 📫 You can reach me at milad.kordeh@gmail.com
 
 <!---
