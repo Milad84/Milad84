@@ -26,6 +26,8 @@ Feel free to reach out for collaboration or just a chat!
 
 ## Languages and Tools
 
+![JS](https://img.shields.io/badge/JS-%23323330.svg?logo=javascript)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-%23316192.svg?logo=python&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%2332A852.svg?logo=qgis&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-%230098D8.svg?logo=gdal&logoColor=white)
