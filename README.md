@@ -18,9 +18,9 @@ I am passionate about all things GIS and have a knack for building scalable GIS 
 
 Feel free to reach out for collaboration or just a chat!
 
-- 🌍 Based in [Your Country/Region]
+- 🌍 Based in the U.S.A
 - 📫 [Email](milad.kordeh@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/milad-korde/))
+- 💼 https://www.linkedin.com/in/milad-korde/
 
 ---
 
