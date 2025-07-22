@@ -1,4 +1,4 @@
-# Hi there, I'm [Milad Korde] 👋
+# Hi there, I'm Milad Korde 👋
 
 🌍 Geo-Nerd & Code Whisperer 😄
 
