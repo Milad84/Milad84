@@ -6,7 +6,7 @@
 
 ## About Me ✨
 
-I am passionate about all things GIS and have a knack for building scalable GIS platforms. I also teach GIS at an academic level and have been a visiting assistant professor for 2 years at Clark University and an adjunct professor at the Northwest Missouri State University.
+I am passionate about all things GIS and have a knack for building scalable GIS platforms. I also have teaching experience at the academic level, having served as a visiting assistant professor for 2 years at Clark University and as an adjunct professor at Northwest Missouri State University.
 
 ---
 
