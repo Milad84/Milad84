@@ -12,7 +12,7 @@ I am passionate about all things GIS and have a knack for building scalable GIS 
 
 ## What I'm Up To 👇
 
-- 🚀 Currently engineering GIS solutions at the City of Austin Transportation and Public Works Department
+- 🚀 Currently engineering GIS solutions at the City of Austin Transportation and Public Works Department. As an IT Geospatial Analyst in the Vision Zero division, I design, implement, and maintain advanced GIS workflows to support transportation, public safety, and infrastructure projects. I develop and automate spatial data processes using Python, ArcPy, SQL, and FME, ensuring high-quality, accurate, and timely geospatial data for decision-making. My work involves integrating diverse datasets, performing complex spatial analyses, and creating interactive web maps, web apps, and dashboards. I also collaborate with cross-departmental teams to address critical urban planning and mobility challenges. I also lead efforts to optimize data management, streamline reporting, and develop innovative GIS solutions that enhance operational efficiency and support evidence-based policy decisions.
 
 ## Let's Connect 🌐
 
